@@ -1,4 +1,4 @@
-### Hi , I am Maria  👋
+### Hi , I am Maria Tomy 👋
 
 I am a passionate enthusiast , exploring and pursuing each and every element of AI 
 
@@ -6,7 +6,7 @@ I am a passionate enthusiast , exploring and pursuing each and every element of 
 - 🌱 I’m currently learning Machine Learning and Deep Learning  
 - 📫 How to reach me: Connect me in [Linkedin](https://www.linkedin.com/in/maria-tomy-95607a1b0/)
 
-![Maria Tomy's github stats](https://github-readme-stats.vercel.app/api?username=mariatomy9)
+![mariatomy's github stats](https://github-readme-stats.vercel.app/api?username=mariatomy9)
 
 
 
