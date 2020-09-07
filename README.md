@@ -7,3 +7,5 @@ I am a passionate enthusiast , exploring and pursuing each and every element of 
 - 📫 How to reach me: Connect me in Linkedin
 
 
+https://github-readme-stats.vercel.app/api?username=mariatomy9)](https://github.com/mariatomy9/github-readme-stats)
+
