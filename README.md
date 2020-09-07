@@ -7,7 +7,7 @@ I am a passionate enthusiast , exploring and pursuing each and every element of 
 - 📫 How to reach me: Connect me in [Linkedin](https://www.linkedin.com/in/maria-tomy-95607a1b0/)
 
 
-[![mariatomy9's github stats](https://github-readme-stats.vercel.app/api?username=mariatomy9)](https://github.com/mariatomy9/github-readme-stats)
+[![Maria Tomy's github stats](https://github-readme-stats.vercel.app/api?username=mariatomy9)](https://github.com/mariatomy9/github-readme-stats)
 
 
 
