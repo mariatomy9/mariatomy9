@@ -10,7 +10,7 @@ I am a passionate enthusiast , exploring and pursuing each and every element of 
 
 [![Maria Tomy's github stats](https://github-readme-stats.vercel.app/api?username=mariatomy9)](https://github.com/mariatomy9/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/mariatomy9ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mariatomy9)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
