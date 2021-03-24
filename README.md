@@ -15,6 +15,7 @@ I am a passionate enthusiast , exploring and pursuing each and every element of 
 [![Maria Tomy's github activity graph](https://activity-graph.herokuapp.com/graph?username=mariatomy9&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 
 
 
