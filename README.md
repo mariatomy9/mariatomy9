@@ -12,9 +12,9 @@ I am a passionate enthusiast , exploring and pursuing each and every element of 
 
 [![Maria Tomy's trophy](https://github-profile-trophy.vercel.app/?username=mariatomy9)](https://github-profile-trophy.vercel.app/?username=mariatomy9&column=3&margin-w=15&margin-h=15)
 
-[![Maria Tomy's github activity graph](https://activity-graph.herokuapp.com/graph?username=mariatomy9&theme=cobalt)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Maria Tomy's github activity graph](https://activity-graph.herokuapp.com/graph?username=mariatomy9&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+![Maria Tomy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariatomy9&hide=contribs,prs)
 
 
 
