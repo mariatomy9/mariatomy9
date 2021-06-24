@@ -14,5 +14,6 @@ I am a passionate enthusiast , exploring and pursuing each and every element of 
 
 [![Maria Tomy's github activity graph](https://activity-graph.herokuapp.com/graph?username=mariatomy9&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariatomy9)](https://github.com/mariatomy9/github-readme-stats)
 
 
