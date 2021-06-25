@@ -1,4 +1,4 @@
-### Hi , I am Maria Tomy 👋
+<h1 align = "center"> Hello there, I am Maria Tomy  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
 I am a passionate enthusiast , exploring and pursuing each and every element of AI .
 
