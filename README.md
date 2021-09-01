@@ -1,5 +1,5 @@
 <h1 align = "center"> Hello there, I am Maria Tomy  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
-![Profile views](https://komarev.com/ghpvc/?username=mariatomy9&color=green)
+![Profile views](https://gpvc.arturio.dev/[mariatomy9])
 
 
 I am a passionate enthusiast , exploring and pursuing each and every element of AI .
