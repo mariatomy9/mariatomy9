@@ -2,7 +2,6 @@
 
 
 
-
 I am a passionate enthusiast , exploring and pursuing each and every element of AI .
 
 
@@ -11,8 +10,8 @@ I am a passionate enthusiast , exploring and pursuing each and every element of 
 - 📫 How to reach me: Connect me in [Linkedin](https://www.linkedin.com/in/maria-tomy-95607a1b0/) and [Twitter](https://twitter.com/MariaTomy5)
 
 
-[![Maria Tomy's github stats](https://github-readme-stats.vercel.app/api?username=mariatomy9&show_icons=true&theme=highcontrast)](https://github.com/mariatomy9/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariatomy9&hide=TeX&layout=compact&theme=highcontrast)
+[![Maria Tomy's github stats](https://github-readme-stats.vercel.app/api?username=mariatomy9&show_icons=true)](https://github.com/mariatomy9/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariatomy9&hide=TeX&layout=compact)
 [![Maria Tomy's trophy](https://github-profile-trophy.vercel.app/?username=mariatomy9)](https://github-profile-trophy.vercel.app/?username=mariatomy9&column=3&margin-w=15&margin-h=15)
 
 
