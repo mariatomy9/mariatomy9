@@ -1,5 +1,5 @@
 <h1 align = "center"> Hello there, I am Maria Tomy  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=mariatomy9.mariatomy9)
+
 
 
 
@@ -12,7 +12,7 @@ I am a passionate enthusiast , exploring and pursuing each and every element of 
 
 
 [![Maria Tomy's github stats](https://github-readme-stats.vercel.app/api?username=mariatomy9&show_icons=true&theme=highcontrast)](https://github.com/mariatomy9/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariatomy9&hide=TeX&layout=compact)
 [![Maria Tomy's trophy](https://github-profile-trophy.vercel.app/?username=mariatomy9)](https://github-profile-trophy.vercel.app/?username=mariatomy9&column=3&margin-w=15&margin-h=15)
 
 
