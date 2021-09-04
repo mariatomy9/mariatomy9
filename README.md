@@ -1,5 +1,4 @@
 <h1 align = "center"> Hello there, I am Maria Tomy  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
-![](https://komarev.com/ghpvc/?username=mariatomy9&color=010040&style=flat-square)
 
 
 I am a passionate enthusiast , exploring and pursuing each and every element of AI .
