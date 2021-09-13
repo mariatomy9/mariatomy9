@@ -1,8 +1,8 @@
 <h1 align = "center"> Hello there, I am Maria Tomy  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 
+<h3 align = "center"> I am a passionate enthusiast , exploring and pursuing each and every element of AI .</h3>
 
-I am a passionate enthusiast , exploring and pursuing each and every element of AI .
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariatomy9&label=Profile%20views&color=f20707&style=flat" alt="mariatomy9" /> </p>
 
 - 🔭 I’m currently pursuing B.Tech in Electronics and Communication fron Government Engineering College , Barton Hill , Thiruvananthapuram.
 - 🌱 I’m currently learning Machine Learning and Deep Learning  
