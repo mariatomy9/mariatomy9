@@ -14,7 +14,9 @@
 [![Maria Tomy's github stats](https://github-readme-stats.vercel.app/api?username=mariatomy9&show_icons=true)](https://github.com/mariatomy9/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariatomy9&hide=TeX&layout=compact)
 
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mariatomy9&show_icons=true&locale=en&layout=compact" alt=mariatomy9" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariatomy" alt="mariatomy" /></a> </p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariatomy9&" alt="mariatomy9" /></p>
 
