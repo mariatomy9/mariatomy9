@@ -15,7 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariatomy9&hide=TeX&layout=compact)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariatomy" alt="mariatomy" /></a> </p>
+[![Maria Tomy's trophy](https://github-profile-trophy.vercel.app/?username=mariatomy9)](https://github-profile-trophy.vercel.app/?username=mariatomy9&column=3&margin-w=10&margin-h=10)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariatomy9&" alt="mariatomy9" /></p>
