@@ -20,6 +20,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariatomy9&" alt="mariatomy9" /></p>
 
+[![Maria Tomy's github activity graph](https://activity-graph.herokuapp.com/graph?username=mariatomy9&theme=react-dark)](https://github.com/mariatomy9/github-readme-activity-graph)
 
 
 
