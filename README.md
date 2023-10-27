@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariatomy9&label=Profile%20views&color=blue&style=flat" alt="mariatomy9" /> </p>
 
-- 🔭 I’m currently pursuing B.Tech in Electronics and Communication fron Government Engineering College , Barton Hill , Thiruvananthapuram.
+- 🔭 I’m have completed B.Tech in Electronics and Communication fron Government Engineering College , Barton Hill , Thiruvananthapuram.
 
 - 🌱 I’m currently learning Machine Learning and Deep Learning <img align="right" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="400px" />
  
